@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">COVID-19</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_barchart">Bar Chart</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+
+    <string name="menu_dataglobal">Data Global</string>
+    <string name="menu_dataindonesia">Data Global | Indonesia</string>
+    <string name="menu_dataindonesiprov">Data Indonesia Provinsi</string>
+    <string name="menu_dataindonesi">Data Global Sembuh</string>
+    <string name="menu_dataglobalpos">Data Global Positif</string>
+    <string name="menu_tips">Tips Agar Terhindar Virus Corona</string>
+    <string name="menu_peta">Peta</string>
+    <string name="home_second">Home Second</string>
+    <string name="article_subtitle">Tips Agar Tidak Tertular Virus Corona</string>
+    <string name="article_text">
+    <b>1. Mencuci tangan dengan benar</b>
+    \n
+    Cucilah tangan dengan air mengalir dan sabun, setidaknya selama 20 detik. Pastikan seluruh bagian tangan tercuci hingga bersih, termasuk punggung tangan, pergelangan tangan, sela-sela jari, dan kuku. Cucilah tangan secara teratur, terutama sebelum dan setelah makan, setelah menggunakan toilet, setelah menyentuh hewan, membuang sampah, serta setelah batuk atau bersin.
+    \n
+    <b>2. Menggunakan masker</b>
+    \n
+    Masker bedah atau surgical mask merupakan masker sekali pakai yang umum digunakan. Masker ini mudah ditemukan, harganya terjangkau, dan nyaman dipakai, sehingga banyak orang yang menggunakan masker ini saat beraktivitas sehari-hari. Penggunaan masker lebih disarankan bagi orang yang sedang sakit untuk mencegah penyebaran virus dan kuman, ketimbang pada orang yang sehat.
+    \
+    <b>3. Menjaga daya tahan tubuh</b>
+    \n
+    Daya tahan tubuh yang kuat dapat mencegah munculnya berbagai macam penyakit. Untuk meningkatkan daya tahan tubuh, Anda disarankan untuk mengonsumsi makanan sehat, seperti sayuran dan buah-buahan, dan makanan berprotein, seperti telur, ikan, dan daging tanpa lemak. Beberapa sumber menyebutkan bahwa berjemur di bawah sinar matahari juga dapat mencegah infeksi virus Corona.
+    \n
+    <b>4. Menerapkan physical distancing dan isolasi mandiri</b>
+    \n
+    Pembatasan fisik atau physical distancing adalah salah satu langkah penting untuk memutus mata rantai penyebaran virus Corona. Hal ini dapat dilakukan dengan cara tidak bepergian keluar rumah, kecuali untuk keperluan yang mendesak atau darurat, seperti berbelanja bahan makanan atau berobat ketika sakit. Selama menjalani physical distancing, Anda juga perlu menghindari kontak dengan orang yang sedang sakit, diduga terinfeksi virus Corona, atau sudah dinyatakan positif COVID-19.
+    \n
+    <b>5. Membersihkan rumah dan melakukan disinfeksi secara rutin</b>
+    \n
+    Selain kebersihan diri, menjaga kebersihan rumah juga sangat penting dilakukan selama pandemi COVID-19 berlangsung. Hal ini dikarenakan virus Corona terbukti dapat bertahan hidup selama berjam-jam dan bahkan berhari-hari di permukaan suatu benda. Saat membersihkan atau melakukan disinfeksi, Anda perlu menggunakan sarung tangan dan masker, serta mencuci tangan dengan air bersih dan sabun setelah selesai membersihkan rumah. Hal ini dilakukan untuk mencegah penularan virus Corona yang mungkin saja terjadi.
+    \n
+    </string>
+    <string name="title_activity_maps">Map</string>
+
+
+</resources>
